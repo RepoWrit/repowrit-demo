@@ -1,8 +1,7 @@
-<p align="center">
-  <a href="https://repowrit.com">
-    <img src="https://repowrit.com/icon.svg" alt="RepoWrit" width="48" height="48" />
-  </a>
-</p>
+| File | Description |
+|---|
+| [REPOWRIT.md](./REPOWRIT.md) | A mock Executive Briefing generated from this repo's commit history — Founder, PM, and CTO views including Tech Debt Trends, Time-Saved Metrics, and Business Impact scores. |
+| `README.md` | You're reading it. |
 
 # repowrit-demo
 
