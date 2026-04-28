@@ -1,8 +1,7 @@
-<p align="center">
-  <a href="https://repowrit.com">
-    <img src="https://repowrit.com/icon.svg" alt="RepoWrit" width="48" height="48" />
-  </a>
-</p>
+| File | Description |
+|---|
+| [REPOWRIT.md](./REPOWRIT.md) | A mock Executive Briefing generated from this repo's commit history — Founder, PM, and CTO views including Tech Debt Trends, Time-Saved Metrics, and Business Impact scores. |
+| `README.md` | You're reading it. |
 
 # repowrit-demo
 
@@ -32,8 +31,6 @@ When you connect a repository to RepoWrit:
 
 This demo repo shows the output of step 3. To see the full experience — automatic docs, semantic search, architecture mapping, PR reviews, and weekly briefings — [install RepoWrit](https://repowrit.com) on your own repositories.
 
----
-
 ## Try RepoWrit
 
 RepoWrit works with any GitHub repository. Install the app and push code — results appear in under a minute. Your first sync analyzes the last 3 commits so you have an instant baseline.
@@ -41,9 +38,3 @@ RepoWrit works with any GitHub repository. Install the app and push code — res
 - [Sign up free →](https://repowrit.com)
 - [See pricing →](https://repowrit.com/pricing) — Hobbyist (free), BYOK ($4.99/mo), Team ($20/seat/mo), Enterprise ($49.99/seat/mo)
 - [Read the changelog →](https://repowrit.com/changelog)
-
----
-
-<p align="center">
-  <sub><a href="https://repowrit.com">repowrit.com</a> · Powered by Claude 4.5</sub>
-</p>
