@@ -31,8 +31,6 @@ When you connect a repository to RepoWrit:
 
 This demo repo shows the output of step 3. To see the full experience — automatic docs, semantic search, architecture mapping, PR reviews, and weekly briefings — [install RepoWrit](https://repowrit.com) on your own repositories.
 
----
-
 ## Try RepoWrit
 
 RepoWrit works with any GitHub repository. Install the app and push code — results appear in under a minute. Your first sync analyzes the last 3 commits so you have an instant baseline.
