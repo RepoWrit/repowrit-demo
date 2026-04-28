@@ -38,9 +38,3 @@ RepoWrit works with any GitHub repository. Install the app and push code — res
 - [Sign up free →](https://repowrit.com)
 - [See pricing →](https://repowrit.com/pricing) — Hobbyist (free), BYOK ($4.99/mo), Team ($20/seat/mo), Enterprise ($49.99/seat/mo)
 - [Read the changelog →](https://repowrit.com/changelog)
-
----
-
-<p align="center">
-  <sub><a href="https://repowrit.com">repowrit.com</a> · Powered by Claude 4.5</sub>
-</p>
